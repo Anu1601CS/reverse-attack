@@ -1,2 +1,2 @@
 # reverse-attack
-Reverse shell atack using python and control client PC 
+Reverse shell atack using python and control client PC. This supports multihreading. 
